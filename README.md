@@ -1,4 +1,11 @@
-# GPT Spreen boot 🤖
+# GPT Spring boot 🤖
+
+---
+
+La aplicación es una implementación basada en **Spring Boot** y **Maven** que proporciona funcionalidades de chat mediante la integración con la API de ChatGPT. Los usuarios pueden interactuar en tiempo real con el modelo de lenguaje, obteniendo respuestas dinámicas según las preguntas o comentarios que ingresen. Para experimentar la aplicación en acción, visita este [enlace](https://springboot-nlaq.onrender.com/chatboot/chat?message=hola).
+
+---
+
 
 Para poner en marcha la aplicación, sigue los pasos a continuación:
 
