@@ -1,4 +1,4 @@
-package com.sacavix.chatgpt;
+package com.brayan.chatgpt;
 
 import io.github.flashvayne.chatgpt.dto.ChatRequest;
 import io.github.flashvayne.chatgpt.dto.ChatResponse;

@@ -1,4 +1,4 @@
-package com.sacavix.chatgpt;
+package com.brayan.chatgpt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

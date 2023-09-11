@@ -1,4 +1,4 @@
-package com.sacavix.chatgpt;
+package com.brayan.chatgpt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
